@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that was 
+introduced?
+
+The diff removed the clutter that might has distracted me from seeing the changes.
+I could focus in on the relevant code.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+One can see who made what changes to a file and when.  One can go back and grab old code 
+to revert a change.  You can do a forensic investigation of an issue where the code used 
+to work but at some point it stopped working correctly.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros: Commits should make more sense and be grouped better.  There is less chance of 
+fragmented commits.
+Cons: Usually there is a greater chance of losing work due to a system failure with manual 
+commits.  Auto committing, if the time interval is right, can help ensure you don't lose too much.
+
+Why do you think some version control systems, like Git, allow saving multiple files in 
+one commit, while others, like Google Docs, treat each file separately?
+
+It likely has to do with what the developers decided would likely be the most common use 
+of the system.  A system designed for programmers would likely support multiple file commits.
+Whereas a system primarily designed for log files, might focus on single file commits.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Just do as the video instruction says.  I'm tired of this stupid "Reflection" crap!
+
+How might using version control make you more confident to make changes that could break 
+something?
+
+Geez, what is this, a course for 3rd graders?  It's really sad if today's programmers
+really need to be taught like this.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Unless this file is going to be used for something else, I'm going to stop doing this
+crap.
