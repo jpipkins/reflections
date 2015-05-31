@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+So it looks as if we will be using these stupid reflection files in a repository.
+That means I'll keep typing stuff to fill it out. The answer to the question is 
+that a proper file structure is set up and initialized.  Basically, git creates
+the database it will use to store commits and other data.
