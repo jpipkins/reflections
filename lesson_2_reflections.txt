@@ -4,3 +4,19 @@ So it looks as if we will be using these stupid reflection files in a repository
 That means I'll keep typing stuff to fill it out. The answer to the question is 
 that a proper file structure is set up and initialized.  Basically, git creates
 the database it will use to store commits and other data.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Oh look, a shiny.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Duh, maybe only stage what you want to commit.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Yabba dabba do.
+
+
